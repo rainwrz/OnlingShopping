@@ -1,0 +1,11 @@
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\bin\Debug\OnlineShopping.BLL.dll
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\bin\Debug\OnlineShopping.BLL.pdb
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\bin\Debug\OnlineShopping.Common.dll
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\bin\Debug\OnlineShopping.DAL.dll
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\bin\Debug\OnlineShopping.Models.dll
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\bin\Debug\OnlineShopping.Common.pdb
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\bin\Debug\OnlineShopping.DAL.pdb
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\bin\Debug\OnlineShopping.Models.pdb
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\obj\Debug\OnlineShopping_BLL.csprojResolveAssemblyReference.cache
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\obj\Debug\OnlineShopping.BLL.dll
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_BLL\obj\Debug\OnlineShopping.BLL.pdb

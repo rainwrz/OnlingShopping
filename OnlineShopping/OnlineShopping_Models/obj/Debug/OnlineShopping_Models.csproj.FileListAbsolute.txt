@@ -1,0 +1,4 @@
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_Models\bin\Debug\OnlineShopping.Models.dll
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_Models\bin\Debug\OnlineShopping.Models.pdb
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_Models\obj\Debug\OnlineShopping.Models.dll
+C:\Users\wrz\Documents\Visual Studio 2012\Projects\WebProject\OnlineShopping\OnlineShopping_Models\obj\Debug\OnlineShopping.Models.pdb
